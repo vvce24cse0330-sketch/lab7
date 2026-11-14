@@ -1,1 +1,1 @@
-print(sai)
+print(sai,mysore)
